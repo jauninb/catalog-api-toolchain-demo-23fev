@@ -1,3 +1,5 @@
+Maj BJN pour issue 1
+
 ## Run on Bluemix
 ---
 * cd to a directory you want the application in.
