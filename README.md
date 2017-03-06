@@ -1,5 +1,7 @@
 Maj BJN pour issue 1
 
+Maj pour faire un nouveau commit
+
 ## Run on Bluemix
 ---
 * cd to a directory you want the application in.
